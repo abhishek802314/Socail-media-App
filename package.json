@@ -1,0 +1,24 @@
+{
+  "name": "social",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"tailwind build users/static/users/tw.css -o users/static/users/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek802314/Socail-media-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek802314/Socail-media-App/issues"
+  },
+  "homepage": "https://github.com/abhishek802314/Socail-media-App#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.16"
+  }
+}
